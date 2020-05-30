@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <Title>My webpage</Title>
+</head>
+<body>
+  <div style="color:blue">
+    Hello world.
+  </div>
+
+</body>
+</html>
